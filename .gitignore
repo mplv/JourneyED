@@ -1,0 +1,8 @@
+*.ps1
+pkg/
+bin/
+vendor/
+*.log
+test/
+*.com/
+*.org/
